@@ -1,9 +1,9 @@
 ## Building from source
 
-Git clone <repo>
-Open Files.sln
-Right klik to project name Files.Package and set as startup project
-Run/Build
+1. Git clone <repo>
+2. Open Files.sln
+3. Right klik to project name Files.Package and set as startup project
+3. Run/Build
 
 
 [Preview]
